@@ -204,15 +204,6 @@ end:
         }
         else Help();
 info:
-       
-        printf("\
-                        \
-                        \
-                                                        This Program is written by\
-                                                        K.Vineel Kumar Reddy.\
-                                                                        III/IV IT\
-                                                        Gayathri Vidya Parishad college of Eng.\
-                        \
-                        \
-                        ");
+      print("Hello World\n"); 
+        
 }
